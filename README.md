@@ -1,5 +1,6 @@
 Bincoin
 =====================================
+Goal - Increase Transaction Speed, so that it can be easily used in a day to day life.
 
 Build Status - TBD
 
